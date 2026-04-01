@@ -82,11 +82,22 @@ const josh = {
 
 ```
 ~/projects
-├── 🌐 wrightwayz-site      # Official charity website
-├── 🔧 wrightwayz-api       # Backend infrastructure
-├── ⚡ nextjs-boilerplate    # Production Next.js starter
-├── 📚 awesome-stack         # Curated AI/CS/Cloud index
-└── ⚙️ dotfiles              # Dev environment config
+│
+├── 🏛️ WrightWayz Ecosystem
+│   ├── 🌐 wrightwayz-site       # Official charity website
+│   ├── 🔧 wrightwayz-api        # Backend API & services          [private]
+│   ├── 📚 wrightwayz-docs       # Docs, policies & knowledge base
+│   ├── 📱 wrightwayz-mobile     # Mobile app (React Native)       [private]
+│   └── ☁️  wrightwayz-infra      # Docker, CI/CD & cloud configs   [private]
+│
+├── 🛠️ Developer Tools
+│   ├── ⚡ nextjs-boilerplate    # Production Next.js 16 starter    [private]
+│   ├── 📚 awesome-stack         # Curated AI/CS/Cloud index
+│   ├── ⚙️  dotfiles              # Dev environment config
+│   └── 🤖 miniature-system      # Copilot CLI experiments
+│
+└── 🧪 Sandbox
+    └── 🔬 Mega--zRepo           # Experimental testing ground
 ```
 
 <div align="center">
